@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sshConfig://yankang@172.18.167.112:80 password/home/yankang/anaconda3/envs/pytorch3.8/bin/python3.8" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="sshConfig://yankang@172.18.167.112:80 password/home/yankang/anaconda3/envs/pytorch3.8/bin/python3.8">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_912" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yankang@172.18.167.112:80">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

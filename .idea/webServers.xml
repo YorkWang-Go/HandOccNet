@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="90a6a10f-6793-4964-a6d7-825d5406c05c" name="sshConfig://yankang@172.18.167.112:80 password/home/yankang/anaconda3/envs/pytorch3.8/bin/python3.8">
+        <fileTransfer accessType="SFTP" host="172.18.167.112" port="80" sshConfigId="138b25dd-a6d0-4f84-872b-b80c631fe082" sshConfig="sshConfig://yankang@172.18.167.112:80 password/home/yankang/anaconda3/envs/pytorch3.8/bin/python3.8" />
+      </webServer>
+    </option>
+  </component>
+</project>
